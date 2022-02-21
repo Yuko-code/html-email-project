@@ -3,6 +3,7 @@
 
 ## HTML Email Light x Dark Mode
 This is the project built with Responsive HTML Email course by w3newbie.
+If the phone is set darkmode, users will view the dark version. It is also responsive to smaller devices.
 
 ## Built with
 * HTML
@@ -10,5 +11,6 @@ This is the project built with Responsive HTML Email course by w3newbie.
 
 ## Resources
 [Learn Responsive Web Design and Development](https://w3newbie.com/)
+This course helped me to learn HTML email development. I highly recommend it.
 
 
